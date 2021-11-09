@@ -1,0 +1,53 @@
+
+.mi_formulario__container {
+  padding: 230px;
+  background-color:transparent;
+}
+
+.mi_formulario__header {
+  background-size: cover;
+}
+
+.mi_formulario__title {
+  color:black;
+  padding-top: 10%;
+  padding-left: 5%;
+  font-size: 60px;
+  text-shadow: 2px 2px 2px blue;
+  text-align:center;
+}
+.mi_formulario__body {
+  padding: 30px;
+  text-align:center;
+  background-color: transparent;
+}
+.mi_formulario_form {
+ padding: 1px;
+} 
+.mi_formulario__label {
+  color: black;
+  padding-top: 10%;
+  padding-left: 5%;
+  font-size: 20px;
+  text-align:center;
+}
+.mi_formulario__pais{
+  padding-top: 30px;
+}
+
+.mi_formulario__button {
+  padding: 30px;
+}
+.mi_formulario__button1 {
+  padding: 6px;
+  font-size: 20px
+}
+.mi_formulario_footer {
+  color: transparent;
+}
+.mi_formulario__pais{
+  padding-top: 30px;
+}
+.mi_formulario__label1{
+  padding-right: 30px;
+}
